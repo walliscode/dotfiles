@@ -15,3 +15,4 @@ export VISUAL=nvim
 
 # set path variables
 export PATH=/opt/cmake/bin:$PATH
+export PATH="$PATH:/opt/nvim-linux-x86_64/bin"
