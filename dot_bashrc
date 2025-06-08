@@ -12,3 +12,6 @@ PS1='[\u@\h \W]\$ '
 # set environment variables
 export EDITOR=nvim
 export VISUAL=nvim
+
+# set path variables
+export PATH=/opt/cmake/bin:$PATH
