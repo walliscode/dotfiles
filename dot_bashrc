@@ -16,3 +16,7 @@ export VISUAL=nvim
 # set path variables
 export PATH=/opt/cmake/bin:$PATH
 export PATH="$PATH:/opt/nvim-linux-x86_64/bin"
+export PATH=~/bin:$PATH
+
+# source files
+source /usr/share/bash-completion/completions/git
